@@ -1,16 +1,13 @@
-## Hi there 👋
+### Hey, I'm Rustam (AR Design) 👋
 
-<!--
-**rustams060575-bot/rustams060575-bot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a UI/UX Designer & Frontend Developer based in Alicante, Spain
 
-Here are some ideas to get you started:
+I focus on crafting clean, structured, and high-converting web interfaces, interactive dashboards, and AI-powered web experiences — bridging design precision with real frontend code.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎨 **Design & Prototyping**: Figma, Design Systems, Interactive UX/UI
+
+- 💻 **Frontend & Motion**: HTML/CSS, JavaScript, React, GSAP, Responsive Architecture
+
+- 🤖 **AI & Automation**: Custom AI web interfaces, workflow integrations
+
+📫 Connect with me: LinkedIn (https://www.linkedin.com/in/rustam-akbarovich-45b187417/)
